@@ -1,0 +1,16 @@
+{
+  "name": "tcase",
+  "version": "0.1.0",
+  "description": "http Test case",
+  "main" : "./",
+  "keywords": [
+    "coffeescript",
+    "test", "case"
+  ],
+  "dependencies": {
+    "jasmine-node": "1.11.0",
+    "node-promise": "0.5.10"
+  },
+  "devDepedencies": {
+  }
+}
